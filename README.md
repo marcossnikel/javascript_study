@@ -1,0 +1,1 @@
+Estudo aprofundado nos fundamentos do Javascript realizados na Alura !
